@@ -1937,7 +1937,7 @@ MonoBehaviour:
   - {fileID: 1785226758}
   - {fileID: 2069764618}
   power: 5000
-  rot: 45
+  rot: 60
   downForceValue: 300
 --- !u!65 &332894708
 BoxCollider:
