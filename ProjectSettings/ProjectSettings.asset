@@ -46,8 +46,13 @@ PlayerSettings:
   defaultScreenHeight: 1080
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
+<<<<<<< HEAD
   m_StereoRenderingPath: 0
   m_ActiveColorSpace: 0
+=======
+  m_StereoRenderingPath: 2
+  m_ActiveColorSpace: 1
+>>>>>>> 57111a2661ef08f6f3ebd6d3247ede423f6f5176
   m_SpriteBatchVertexThreshold: 300
   m_MTRendering: 1
   mipStripping: 0
@@ -405,7 +410,11 @@ PlayerSettings:
   - m_BuildTarget: iOSSupport
     m_GraphicsJobs: 0
   - m_BuildTarget: WindowsStandaloneSupport
+<<<<<<< HEAD
     m_GraphicsJobs: 1
+=======
+    m_GraphicsJobs: 0
+>>>>>>> 57111a2661ef08f6f3ebd6d3247ede423f6f5176
   - m_BuildTarget: XboxOnePlayer
     m_GraphicsJobs: 1
   - m_BuildTarget: LuminSupport
@@ -432,6 +441,12 @@ PlayerSettings:
   - m_BuildTarget: WebGLSupport
     m_APIs: 0b000000
     m_Automatic: 1
+<<<<<<< HEAD
+=======
+  - m_BuildTarget: WindowsStandaloneSupport
+    m_APIs: 02000000
+    m_Automatic: 0
+>>>>>>> 57111a2661ef08f6f3ebd6d3247ede423f6f5176
   m_BuildTargetVRSettings:
   - m_BuildTarget: Standalone
     m_Enabled: 0
@@ -838,7 +853,11 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
+<<<<<<< HEAD
   activeInputHandler: 0
+=======
+  activeInputHandler: 2
+>>>>>>> 57111a2661ef08f6f3ebd6d3247ede423f6f5176
   windowsGamepadBackendHint: 0
   cloudProjectId: 0491b2a6-7e05-42cc-aae4-c03cff9b88b9
   framebufferDepthMemorylessMode: 0

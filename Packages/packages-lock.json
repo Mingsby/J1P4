@@ -60,6 +60,18 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+=======
+    "com.unity.inputsystem": {
+      "version": "1.6.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+>>>>>>> 57111a2661ef08f6f3ebd6d3247ede423f6f5176
     "com.unity.performance.profile-analyzer": {
       "version": "1.2.2",
       "depth": 1,
