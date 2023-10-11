@@ -2913,7 +2913,8 @@ PrefabInstance:
       value: ai3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: 8cbbc353d826fa341800b8b03da42746, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8cbbc353d826fa341800b8b03da42746, type: 3}
@@ -6881,7 +6882,8 @@ PrefabInstance:
       value: DNA2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: 871db9725deeb914196f0b535d51a33a, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 871db9725deeb914196f0b535d51a33a, type: 3}
@@ -9998,7 +10000,8 @@ PrefabInstance:
       value: brain3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: 3c335e39a8fbcd7469b91a13effa4189, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c335e39a8fbcd7469b91a13effa4189, type: 3}
@@ -11185,7 +11188,8 @@ PrefabInstance:
       value: artificial intelligence_frame
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: 166ca0f49be88f843b49c25f22bceb13, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 166ca0f49be88f843b49c25f22bceb13, type: 3}
