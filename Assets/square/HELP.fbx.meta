@@ -1,8 +1,35 @@
 fileFormatVersion: 2
 guid: 148cdb7d38560fa419a81e0d688e1b45
 ModelImporter:
-  serializedVersion: 22200
-  internalIDToNameTable: []
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -3860184352202015513
+    second: "\uAC74\uBB3C\uC911\uAC04|Cube.001Action.006"
+  - first:
+      74: 1730913520815804414
+    second: "\uAC74\uBB3C\uC911\uAC04|\uAC74\uBB3C\uC544\uB798.002Action"
+  - first:
+      74: -9051068547313760793
+    second: "\uAC74\uBB3C\uC911\uAC04|\uAC74\uBB3C\uC544\uB798.002Action.001"
+  - first:
+      74: -4962652535262368173
+    second: "\uC870\uBA85\uC544\uB798.001|Cube.001Action.006"
+  - first:
+      74: 4305888494945894247
+    second: "\uC870\uBA85\uC544\uB798.001|\uAC74\uBB3C\uC544\uB798.002Action"
+  - first:
+      74: -7318041502738991126
+    second: "\uC870\uBA85\uC544\uB798.001|\uAC74\uBB3C\uC544\uB798.002Action.001"
+  - first:
+      74: 791791302688125587
+    second: "\uC870\uBA85\uC544\uB798|Cube.001Action.006"
+  - first:
+      74: 386911011987324928
+    second: "\uC870\uBA85\uC544\uB798|\uAC74\uBB3C\uC544\uB798.002Action"
+  - first:
+      74: -707636943867194346
+    second: "\uC870\uBA85\uC544\uB798|\uAC74\uBB3C\uC544\uB798.002Action.001"
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -40,7 +67,6 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -68,7 +94,6 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -101,7 +126,6 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
-  importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
