@@ -145,7 +145,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 754924363588413446}
-  - component: {fileID: 6960525148685546677}
   m_Layer: 0
   m_Name: Controls
   m_TagString: Untagged
@@ -170,24 +169,6 @@ Transform:
   - {fileID: 1630439557309935411}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6960525148685546677
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4401369074076092930}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cbda8bf3da21c8c439de0e9e7422103d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  buttonOff: {fileID: 0}
-  buttonConforming: {fileID: 0}
-  buttonNatural: {fileID: 0}
-  leftLinePointer: {fileID: 8564501621512561174}
-  rightLinePointer: {fileID: 1048958654264431225}
-  cameraRig: {fileID: 0}
 --- !u!1 &6020975827737507442
 GameObject:
   m_ObjectHideFlags: 0
