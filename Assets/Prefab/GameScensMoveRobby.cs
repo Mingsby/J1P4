@@ -8,9 +8,7 @@ public class GameScensMoveRobby : MonoBehaviour
 
     public void GameScenesCtrl()
     {
-        SceneManager.LoadScene("Sample Scene"); // 어떤 씬 이름으로 이동 할건지 
+        SceneManager.LoadScene("Robby"); // 어떤 씬 이름으로 이동 할건지 
     }
-
-
 }
 
