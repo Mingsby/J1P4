@@ -11820,7 +11820,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 358cf0111ff8bda41bf53723b5d14068, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  my_video: {fileID: 0}
+  my_video: {fileID: 1515800901}
 --- !u!4 &395189851 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: c61c10b6f730c364ab118d444bf533ea, type: 3}
@@ -25552,7 +25552,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &794893272
 Transform:
   m_ObjectHideFlags: 0
@@ -33603,7 +33603,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1033806835
 Transform:
   m_ObjectHideFlags: 0
