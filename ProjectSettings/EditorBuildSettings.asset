@@ -29,6 +29,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Race.unity
     guid: 0c6ee00784657664ab5e6ea2bebae1e2
+  - enabled: 1
+    path: Assets/Scenes/Linside.unity
+    guid: fe8952b050dc88e4eab560b761aab676
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 436779aa8c12b224fa8b4ab9506b88d0, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 357ddffc8b2a2694da252d22826c227f, type: 2}
